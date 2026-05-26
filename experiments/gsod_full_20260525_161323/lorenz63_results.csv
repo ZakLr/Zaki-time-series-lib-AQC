@@ -1,0 +1,6 @@
+Model,VPT,FSDH
+L63_Persistence,1,0
+L63_Ridge,2,2
+L63_RandomForest,2,2
+L63_LSTM64,0,0
+L63_ESN500,0,0

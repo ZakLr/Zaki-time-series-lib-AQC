@@ -50,8 +50,8 @@ qrc-complete.ipynb
 
 # Data files
 *.csv
-*.parquet
 !requirements.txt
+!experiments/**/*.csv
 
 # PDFs (reference papers)
 *.pdf
