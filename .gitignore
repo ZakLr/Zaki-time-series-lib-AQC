@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Virtual envs
+.venv/
+venv/
+env/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data cache
+~/.zaki_ts_data/
+.cache.sqlite
+
+# Experiment outputs
+experiment_output/
+zaki_results/
+
+# Generated analysis
+weather_dataset_analysis/
+time_series_analysis/
+
+# Quantum variant (separate project)
+zaki_time_series_lib_quantum/
+
+# Temp scripts
+*.pyc
+temp.py
+temp.csv
+_extract_qrc.py
+script1.py
+dataset.py
+explore.ipynb
+qrc-complete.ipynb
+
+# Data files
+*.csv
+*.parquet
+!requirements.txt
+
+# PDFs (reference papers)
+*.pdf
+
+# Logs
+*.log

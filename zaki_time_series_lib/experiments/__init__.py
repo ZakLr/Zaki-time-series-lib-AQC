@@ -1,0 +1,1 @@
+from zaki_time_series_lib.experiments.full_experiment import main as run_full_experiment
